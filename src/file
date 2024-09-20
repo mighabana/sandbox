@@ -1,0 +1,12 @@
+{
+    "locations": [
+        {
+            "latitudeE7": 351324213,
+            "longitudeE7": -1122434441,
+            "accuracy": 10,
+            "deviceTag": -80241446968629135069,
+            "deviceDesignation": "PRIMARY",
+            "timestamp": "2017-12-10T23:14:58.030Z"
+        }
+    ]
+}
